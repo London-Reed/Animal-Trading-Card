@@ -1,0 +1,55 @@
+/* add your CSS here */
+body{
+  font-family: "Times New Roman", Times, serif;
+}
+.container{
+  border: 1px solid rgb(211,211,211);
+  width: 400px;
+  box-shadow: 10px 10px rgb(211,211,211);
+}
+
+h3{
+  padding-left: 15px;
+  font-size: 36px;
+}
+
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  border: 1px solid rgb(211,211,211);
+  width:300px;
+}
+
+
+ul{
+  padding-left: 10px;
+  
+}
+li{
+  list-style: none;
+  padding: 3px;
+  font-size: 20px;
+}
+li span{
+  font-weight: bold;
+}
+
+.info{
+  border: 1px solid rgb(211,211,211);
+  margin: 10px;
+  max-width: 100%
+  
+}
+
+p{
+  padding: 15px;
+  font-size: 18px;
+}
+
+#fact{
+  font-style: italic;
+  font-size: 20px;
+}
+
